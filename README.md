@@ -26,10 +26,10 @@ Todo corre en `Linux`. Todo se versiona en `Git`. Todo se empaqueta en `Docker`.
 ### 03 — interests
 
 ```
-systems     → cómo funcionan las cosas por dentro
-code        → escribir, romper, arreglar
-research    → leer papers, probar ideas raras
-automation  → que la máquina haga el trabajo repetitivo
+systems
+code
+research
+automation
 ```
 
 <br>
