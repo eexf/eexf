@@ -11,14 +11,25 @@
 ### `01` — stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,rust" />
 </p>
 
-### `02` — tools
+### `02` — environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,cmake" />
 </p>
+
+<br>
+
+### `03` — interests
+
+```text
+systems
+low-level
+automation
+networking
+```
 
 <br>
 
