@@ -8,7 +8,7 @@
 
 <br>
 
-### `01` — stack
+### `01` — core
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,c,rust" />
@@ -26,9 +26,9 @@
 
 ```text
 systems
-low-level
+code
+research
 automation
-networking
 ```
 
 <br>
