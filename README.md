@@ -30,10 +30,6 @@ automation
 
 <br>
 
-```
-status: still building
-```
-
 <br>
 
 <p align="center"><sub>no public repos yet — working on it</sub></p>
