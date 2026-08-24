@@ -1,10 +1,10 @@
-# eexf
+# Hi there, I'm eexf
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=building+quietly.;learning+%26+experimenting.;C%2B%2B+%7C+Python" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=building+quietly;learning+%26+experimenting.;C%2B%2B+%7C+Python" />
 </p>
 
-> interested in code, systems and random projects.
+> nothing public
 
 <br>
 
@@ -37,5 +37,5 @@ building random stuff
 </p>
 
 <p align="center">
-  <sub>keep it simple.</sub>
+  <sub>keep it simple</sub>
 </p>
