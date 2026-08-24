@@ -1,10 +1,10 @@
 # eexf
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3500&pause=1200&color=FFFFFF&vCenter=true&width=500&lines=building+quietly.;private+by+default.;somewhere+in+the+code." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3500&pause=1200&color=FFFFFF&vCenter=true&width=500&lines=building+quietly;private+by+default;somewhere+in+the+code." />
 </p>
 
-> nothing public.
+> nothing public
 
 <br>
 
@@ -23,11 +23,11 @@
 <br>
 
 ```text
-still building.
+still building
 ```
 
 <br>
 
 <p align="center">
-  <sub>no description needed.</sub>
+  <sub>no description needed</sub>
 </p>
