@@ -1,5 +1,5 @@
 <h1 align="center">eexf</h1>
-<p align="center"><i>lowkey building</i></p>
+<p align="center"><i>lowkei</i></p>
 
 <br>
 
@@ -18,15 +18,6 @@
 </p>
 
 <br>
-
-### 03 — interests
-
-```
-systems
-code
-research
-automation
-```
 
 <br>
 
